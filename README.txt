@@ -1,0 +1,1 @@
+GitHub Pages fixed version. Upload/extract ALL files to repository root. index.html must be in the main folder. CSS/images are embedded in HTML.
